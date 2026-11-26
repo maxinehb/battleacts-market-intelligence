@@ -1,6 +1,8 @@
 # Actuarial Exam Preparation Market Intelligence: BattleActs
 
-**Maxine Hakimi-Bulson** | Python · Web scraping · Text mining · Data visualization
+**Maxine Hakimi-Bulson** | [LinkedIn](https://www.linkedin.com/in/maxine-hakimi-bulson/) | [GitHub](https://github.com/maxinehb) | [Professional Portfolio](https://maxinehb-portfolio.share.connect.posit.cloud/)
+
+Python · Web scraping · Text mining · Data visualization
 
 ## Overview
 
